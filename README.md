@@ -1,1 +1,1 @@
-# python-field-guess--game
+# python-word-guess--game
